@@ -1,0 +1,10 @@
+applications:
+- path: target/JoShopping.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: cedp-sprin
+  host: cedp-sprin
+  disk_quota: 1024M
+services: 
+   - cedp-mysql-node-service
