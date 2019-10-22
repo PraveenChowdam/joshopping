@@ -2,7 +2,7 @@ Spring MVC Hibernate application for testing
 
 ============================================
 
-JoShoppy
+JoShoppy for Shopping
 
 This application uses Spring MVC ,Hibernate and Maven
 
